@@ -105,9 +105,14 @@
     border-radius: 250%;
     position: relative;
     right: 350px;
-    top:100px
-    /* float:left; */
-    /* padding-left: 100px; */
+    top:120px
+}
+
+.abouttext {
+    position: relative;
+    margin-left: 850px;
+    bottom: 250px;
+    text-align: left;
 }
 
 /* Projects Page  */
