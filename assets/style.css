@@ -129,7 +129,7 @@
 }
 
 .projectscontent {
-    overflow: auto;
+    /* overflow: auto; */
     text-align: center;
     color: #e1efe6;
     font-size: 300%;
@@ -178,11 +178,24 @@
 }
 
 .skillscontent {
-    overflow: auto;
+    /* overflow: auto; */
     text-align: center;
     color: rgb(49, 48, 48);
     font-size: 300%;
     padding-top: 50px;
+}
+
+.skilllist li {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+.skilllist li::before {
+    content: "\2022";
+    color: #EFCB68;
+    margin-right: 8px;
 }
 
 /* Contact Page  */
@@ -198,10 +211,21 @@
 }
 
 .contactcontent {
-    overflow: auto;
+    /* overflow: auto; */
     text-align: center;
     color:#e1efe6;
     font-size: 300%;
     padding-top: 50px;
+}
+
+.sociallinks a{
+    display: flex;
+    color: #e1efe6;
+    align-items: center;
+    margin: 80px 5px 5px 550px;
+}
+
+.sociallinks span {
+    color: #EFCB68;
 }
 
