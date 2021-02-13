@@ -135,6 +135,35 @@
     padding-top: 50px;
 }
 
+.projectlinks {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 100px;'
+}
+
+/* .projectlinks ul {
+    display: inline;
+} */
+
+#project1 img {
+    width: 700px;
+    border: 10px solid #EFCB68;
+}
+
+#project1:hover {
+    opacity: 0.3;
+}
+
+#project2 img {
+    width: 700px;
+    border: 10px solid #EFCB68;
+}
+
+#project2:hover {
+    opacity: 0.3;
+}
+
 /* Skills Page  */
 .skills {
     background-color: #e1efe6;
