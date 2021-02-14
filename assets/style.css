@@ -35,6 +35,12 @@
     font-size: 200%;
 }
 
+@media screen and (max-width: 768px) {
+    .page1, h3 {
+        font-size: 80%;
+    }
+}
+
 /* Side Navigation Bar */
 .sidenav {
     position:fixed;
@@ -77,6 +83,12 @@
 
 .sidenav a:hover {
     margin-left: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .sidenav {
+        position: fixed;
+    }
 }
 
 
@@ -163,6 +175,12 @@
 @media screen and (max-width: 768px) {
     .projectlinks {
         flex-direction: column;
+    }
+    #project1 img {
+        max-width: 400px;
+    }
+    #project2 img {
+        max-width: 400px;
     }
 }
 
