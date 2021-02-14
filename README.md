@@ -5,8 +5,8 @@ In this homework assignment I have created a portfolio page for myself. I filled
 -Peter Nguyen
 
 # Screenshots
-![Alt text](assets\images\Screenshot1.PNG?raw=true "Screenshot 1")
-![Alt text](assets\images\Screenshot2.PNG?raw=true "Screenshot 2")
+![Alt text](https://github.com/p3t3rn9uy3n/MyPortfolio/blob/main/assets/images/Screenshot1.PNG?raw=true "Screenshot 1")
+![Alt text](https://github.com/p3t3rn9uy3n/MyPortfolio/blob/main/assets/images/Screenshot2.PNG?raw=true "Screenshot 2")
 
 
 # Website Link
