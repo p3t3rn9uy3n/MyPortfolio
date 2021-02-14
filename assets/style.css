@@ -37,7 +37,7 @@
 
 @media screen and (max-width: 768px) {
     .page1, h3 {
-        font-size: 80%;
+        font-size: 50%;
     }
 }
 
@@ -172,7 +172,7 @@
     opacity: 0.3;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     .projectlinks {
         flex-direction: column;
     }
