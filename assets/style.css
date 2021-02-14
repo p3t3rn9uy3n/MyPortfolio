@@ -121,10 +121,10 @@
 
 @media screen and (max-width: 768px) {
     .aboutcontent {
-        font-size: 200%;
+        font-size: 120%;
     }
     #portrait {
-        max-width: 200px;
+        max-width: 180px;
     }
 }
 
@@ -251,9 +251,9 @@
 .sociallinks a{
     display: flex;
     color: #e1efe6;
-    /* margin: 80px 5px 5px 30%; */
     font-size: 200%;
     margin-left: 30%;
+    margin-top: 2%;
 }
 
 .sociallinks span {
@@ -262,7 +262,7 @@
 
 @media screen and (max-width: 1200px) {
     .sociallinks a {
-        font-size: 80%;
+        font-size: 130%;
     }
 }
 
