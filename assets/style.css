@@ -218,7 +218,7 @@
 
 @media screen and (max-width: 768px) {
     .skilllist li {
-        font-size: 75%;
+        font-size: 60%;
     }
 }
 
@@ -247,7 +247,7 @@
     color: #e1efe6;
     align-items: center;
     margin: 80px 5px 5px 30%;
-    font-size: 80%;
+    font-size: 100%;
 }
 
 .sociallinks span {
@@ -256,7 +256,7 @@
 
 @media screen and (max-width: 768px) {
     .sociallinks a {
-        font-size: 75%;
+        font-size: 60%;
     }
 }
 
