@@ -119,7 +119,7 @@
     border: 10px solid #EFCB68;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     .aboutcontent {
         font-size: 120%;
     }
