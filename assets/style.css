@@ -235,10 +235,16 @@
     font-size: 40%;
 }
 
-.contactcontent {
+.contactcontent h1 {
     text-align: center;
     color:#e1efe6;
     font-size: 300%;
+    padding-top: 50px;
+}
+
+.contactcontent {
+    text-align: center;
+    color:#e1efe6;
     padding-top: 50px;
 }
 
@@ -247,7 +253,7 @@
     color: #e1efe6;
     /* align-items: center; */
     margin: 80px 5px 5px 30%;
-    font-size: 50%;
+    font-size: 200%;
 }
 
 .sociallinks span {
@@ -256,7 +262,7 @@
 
 @media screen and (max-width: 1200px) {
     .sociallinks a {
-        font-size: 30%;
+        font-size: 80%;
     }
 }
 
