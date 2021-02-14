@@ -238,16 +238,16 @@
 .contactcontent {
     text-align: center;
     color:#e1efe6;
-    font-size: 200%;
+    font-size: 300%;
     padding-top: 50px;
 }
 
 .sociallinks a{
     display: flex;
     color: #e1efe6;
-    align-items: center;
+    /* align-items: center; */
     margin: 80px 5px 5px 30%;
-    font-size: 100%;
+    font-size: 50%;
 }
 
 .sociallinks span {
@@ -256,7 +256,7 @@
 
 @media screen and (max-width: 1200px) {
     .sociallinks a {
-        font-size: 60%;
+        font-size: 30%;
     }
 }
 
