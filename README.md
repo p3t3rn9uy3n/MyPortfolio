@@ -4,7 +4,9 @@ In this homework assignment I have created a portfolio page for myself. I filled
 
 -Peter Nguyen
 
-<img>
+# Screenshots
+![Alt text](/assets/images/Screenshot1.png?raw=true "Screen Shot 1")
+![Alt text](/assets/images/Screenshot2.png?raw=true "Screen Shot 2")
 
 # Website Link
 https://p3t3rn9uy3n.github.io/MyPortfolio/
